@@ -1,6 +1,6 @@
 # HelloworldFever
 
-![image](https://github.com/kasinadhsarma/HelloworldFever/assets/81065703/10d2e33d-9543-4c85-b2e6-1c2e3cf3e994)
+![image](https://github.com/kasinadhsarma/HelloworldFever/assets/81065703/a6892b5c-d2de-4264-9120-dcf45d58dead)
 
 Please provide 'Hello, World!' programs in various programming languages that do not match one another. for hacktoberfest 
 
